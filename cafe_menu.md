@@ -8,4 +8,4 @@
 5. Frappe
 6. Mocha
 7. [Ice-Tea](recipes/ice_tea.txt)
-   
+8. [Signature-Latte](recipes/signature_latte.txt)
